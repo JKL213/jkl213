@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm JKL213, a law student from Frankfurt who also codes. 
+Since my work also involves OSINT and IT tools, I have my own repos for that stuff.
+Currently looking for new ideas in OSINT tool development!
 
 <!--
 **JKL213/jkl213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
