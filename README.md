@@ -1,19 +1,10 @@
-### Hi there 👋
-# I'm JKL213, a law student from Frankfurt who also codes. 
-# Since my work also involves OSINT and IT tools, I have my own repos for that stuff.
-# Currently looking for new ideas in OSINT tool development!
+### Hi there, I'm Jan!
 
-<!--
-**JKL213/jkl213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main website: koch-dev.xyz
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Law student, with an OSINT focus. I'm also interested in a lot of home lab stuff. 
+
+
+No longer maintaining most of my projects due to university, sorry. MCDir and 
