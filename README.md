@@ -8,7 +8,16 @@ Wieso ist OLAT down? [WiesoIstOlatDown.dfs2.eu](https://wiesoistolatnichtda.dfs2
 
 ## About me
 
-Law student, with an OSINT focus. I'm also interested in a lot of home lab stuff. 
+Law student, with an OSINT focus.
+
+My interests:
+- OSINT
+- Homelab
+- BGP and Internet structures
+- Web development
+- Business server applications
+- PXE
 
 
-No longer maintaining most of my projects due to university, sorry. MCDir and 
+
+No longer maintaining most of my projects due to university, sorry. MCDir and all other projects paused for now. 
