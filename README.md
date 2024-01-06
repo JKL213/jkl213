@@ -18,6 +18,3 @@ My interests:
 - Business server applications
 - PXE
 
-
-
-No longer maintaining most of my projects due to university, sorry. MCDir and all other projects paused for now. 
