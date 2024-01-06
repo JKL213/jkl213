@@ -1,4 +1,4 @@
-### Hi there, I'm Jan!
+# Hi there, I'm Jan!
 
 Main website: [Koch-Dev.xyz](https://koch-dev.xyz)
 
