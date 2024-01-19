@@ -8,7 +8,7 @@ Wieso ist OLAT down? [WiesoIstOlatDown.dfs2.eu](https://wiesoistolatnichtda.dfs2
 
 ## About me
 
-Law student, with an OSINT focus.
+*Law student, with an OSINT focus.*
 
 My interests:
 - OSINT
@@ -18,3 +18,19 @@ My interests:
 - Business server applications
 - PXE
 
+# Привет, я Jan!
+
+Основной сайт: Koch-Dev.xyz
+
+## О себе
+
+*Студент юридического факультета, специализирующийся на OSINT.*
+
+Мои интересы:
+
+  - OSINT
+  - Домашняя лаборатория
+  - BGP и структуры Интернета
+  - Веб-разработка
+  - Серверные приложения для бизнеса
+  - PXE
