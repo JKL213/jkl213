@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jkl213email@gmail.com**
 
-- ⚡ Languages **🇩🇪 (native), 🇺🇸 (native), 🇷🇺 (c2), 🇫🇷 (c2), 🇲🇳 (a2), 🇰🇬 (a2)**
+- ⚡ Languages *🇩🇪 (native), 🇺🇸 (native), 🇷🇺 (c2), 🇫🇷 (c2), 🇲🇳 (a2), 🇰🇬 (a2), 🇷🇴 (a1)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
