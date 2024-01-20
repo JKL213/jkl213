@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkl213&label=Profile%20views&color=0e75b6&style=flat-square" alt="jkl213" /> </p>
 
-- 🔭 I’m currently working on [dfs2.eu](https://github.com/JKL213/dfs2.eu)
+- *🔭 I’m currently working on [dfs2.eu](https://github.com/JKL213/dfs2.eu)*
 
-- 🌱 I’m currently learning **PHP and ASP.NET**
+- *🌱 I’m currently learning **PHP and ASP.NET***
 
-- 👨‍💻 All of my projects are available at [koch-dev.xyz](koch-dev.xyz)
+- *👨‍💻 All of my projects are available at [koch-dev.xyz](koch-dev.xyz)*
 
-- 💬 Ask me about **Docker and Reverse Proxies**
+- *💬 Ask me about **Docker and Reverse Proxies***
 
-- 📫 How to reach me **jkl213email@gmail.com**
+- *📫 How to reach me **jkl213email@gmail.com***
 
-- ⚡ Languages *🇩🇪 (native), 🇺🇸 (native), 🇷🇺 (c2), 🇫🇷 (c2), 🇲🇳 (a2), 🇰🇬 (a2), 🇷🇴 (a1)*
+- *⚡ Languages 🇩🇪 (native), 🇺🇸 (native), 🇷🇺 (c2), 🇫🇷 (c2), 🇲🇳 (a2), 🇰🇬 (a2), 🇷🇴 (a1)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
