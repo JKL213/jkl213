@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">OSINT + Intellectual Property law student, ASP and web dev</h3>
+<h3 align="center">Jurastudent in der Examensvorbereitung</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkl213&label=Profile%20views&color=0e75b6&style=flat-square" alt="jkl213" /> </p>
 
