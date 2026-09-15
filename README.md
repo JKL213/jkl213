@@ -1,6 +1,7 @@
-Hi, my name is Jan, I'm a law student who has some fun in coding.
+Hi, my name is Jan, I'm a law student who likes gigantic pants, coding, BGB AT and Club Mate drinks ;)
 
 ReWi @ Johann-Wolfgang-Goethe-Universität Frankfurt am Main, University of Tartu (Tartu Ülikool). 
+(aktuell in der Examensvorbereitung)
 
 Find my projects and bugfixes here.
 
